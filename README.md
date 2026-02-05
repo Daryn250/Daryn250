@@ -1,15 +1,13 @@
-[![Daryn250's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Daryn250/github-readme-stats)
-<!--
-**Daryn250/Daryn250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi,
+I'm Daryn. I'm a Prospective Software Engineer, and I have experience with programming in Python, C++, Java, C, Javascript, and more. I'm currently studying at IvyTech.
+Skills:
+  - Python
+  - Java
+  - C++
+  - Javascript
+  - REST APIs
+  - JSON
+  - Web Development
+  - Game Development
+  - & More
+Reach out to me through LinkedIn to Collaborate on a project. I'm always ready to learn new technologies.
